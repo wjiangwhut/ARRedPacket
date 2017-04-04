@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/jiangwei/dev/ARRedPacket/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/jiangwei/dev/ARRedPacket/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.0_601791f6ec7f97e8280af5fb9e8d176866ca1a08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangwei/dev/ARRedPacket/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/jiangwei/dev/ARRedPacket/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.0_0f63fd8917fd754ec7c32b533caf2e4bd0319322.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangwei/dev/ARRedPacket/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/jiangwei/dev/ARRedPacket/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.0_61647a9410b0e53d7330fd3a0a74803c5f000a83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangwei/dev/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/jiangwei/dev/ARRedPacket/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.0_656443f05e4cc05b53640ea6a49b92f0bf2610e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangwei/dev/ARRedPacket/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/jiangwei/dev/ARRedPacket/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.0_3b4ee85e81eab87a38534d44e8e22ea6af8dd62a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangwei/dev/ARRedPacket/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/jiangwei/dev/ARRedPacket/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.0_47b47f99b047596f0f6cc0c9e76cac45db04a339.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangwei/dev/ARRedPacket/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/jiangwei/dev/ARRedPacket/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.0_a652d0876ce84ccf3a89157d583fe227f09a8360.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangwei/dev/ARRedPacket/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jiangwei/dev/ARRedPacket/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.0_67a396aba476dd9b87e12aec3977041554b2fcb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangwei/dev/ARRedPacket/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/jiangwei/dev/ARRedPacket/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.0_28c15179a6a3dcdc648d038301004523d852f935.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiangwei/dev/ARRedPacket/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/jiangwei/dev/ARRedPacket/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.0_21d8fe502c605b9f2c4fc38572d80032c371e1c5.jar" />
+    </item>
+
+</items>
